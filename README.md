@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie App
 
 A React movie browsing app powered by TMDB API.
@@ -59,3 +60,6 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+=======
+# Movie-app
+>>>>>>> 1c5096a00074fad820749d0f4d0fbd38a8e51811
